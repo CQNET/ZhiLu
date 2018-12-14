@@ -6,6 +6,7 @@
 
 #### 一个简洁、优雅、提高用户学习和工作积极性、记录每天的充实度和每个工作日任务完成度的小软件，采用WPF框架和MVVM模式设计并开发。
 
+![logo](https://raw.githubusercontent.com/CQNET/ZhiLu/master/%E6%82%AC%E6%B5%AE%E6%A1%86.png)
 
 ### 功能特色
 ------
