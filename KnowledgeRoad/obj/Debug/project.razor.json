@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\VS项目\\知路v0.01\\KnowledgeRoad\\KnowledgeRoad.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
