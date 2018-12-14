@@ -40,7 +40,8 @@
 ### 应用截图
 ------
 
-
+原型图
+![](https://raw.githubusercontent.com/CQNET/ZhiLu/master/%E7%9F%A5%E8%B7%AF_%E5%8E%9F%E5%9E%8B1.png)
 
 
 
